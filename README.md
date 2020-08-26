@@ -2,7 +2,7 @@
 
 Você precisa criar a tela conforme o design (Figma) que está no link abaixo:
 
-[Design do Figma](https://www.figma.com/file/CdLkgOUfetpRynmffyCzBL/Teste-para-Frontends-Amplifique.me?node-id=0%3A1)
+[Design](https://www.figma.com/file/CdLkgOUfetpRynmffyCzBL/Teste-para-Frontends-Amplifique.me?node-id=0%3A1)
 
 Existe um arquivo chamado data.json neste repositório, que é um Mock do retorno de uma API.
 
