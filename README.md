@@ -34,7 +34,8 @@ Existe um arquivo chamado data.json neste repositório, que é um Mock do retorn
 * Ver commits grandes, sem muita explicação nas mensagens em seu repositório
 * Encontrar um commit com as dependências do NPM
 
-
+### Prazo de entrega
+O prazo de entrega é Terça-Feira (01/09/20)
 
 Para auxiliar: Bind do retorno da API e a Table
 
