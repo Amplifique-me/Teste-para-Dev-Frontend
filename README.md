@@ -1,4 +1,4 @@
-# Teste-para-Dev-Frontend
+# Teste para Dev Frontend
 
 Você precisa criar a tela conforme o design (Figma) que está no link abaixo:
 
