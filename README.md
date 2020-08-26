@@ -15,24 +15,24 @@ Seu objetivo nesse teste é utilizar Angular (8 ou +) para construir um componen
 Existe um arquivo chamado data.json neste repositório, que é um Mock do retorno de uma API. Você deve utilizá-lo para popular os campos.
 
 ### O que nós esperamos do seu teste
-Ver na solução a utilização do Angular
-Ver a utilização de dependency managers (npm, yarn)
-CSS3/4 - Com um pre processador de CSS (a escolha fica a seu critério, mas aqui utilizamos SASS)
+* Ver na solução a utilização do Angular
+* Ver a utilização de dependency managers (npm, yarn)
+* CSS3/4 - Com um pre processador de CSS (a escolha fica a seu critério, mas aqui utilizamos SASS)
 
 ### O que nós ficaríamos felizes de ver em seu teste
-Layout responsivo
-Alguma metodologia para definição e organização do seu código CSS
+* Layout responsivo
+* Alguma metodologia para definição e organização do seu código CSS
 
 
 ### O que nos impressionaria
-Aplicação de animações em css quando possível e tome cuidado com a performance da sua animação :)
-Ver o código rodando live (Bucket estático S3, Heroku, Firebase Hosting)
+* Aplicação de animações em css quando possível e tome cuidado com a performance da sua animação :)
+* Ver o código rodando live (Bucket estático S3, Heroku, Firebase Hosting)
 
 
 ### O que nós não gostaríamos
-Descobrir que não foi você quem fez seu teste
-Ver commits grandes, sem muita explicação nas mensagens em seu repositório
-Encontrar um commit com as dependências do NPM
+* Descobrir que não foi você quem fez seu teste
+* Ver commits grandes, sem muita explicação nas mensagens em seu repositório
+* Encontrar um commit com as dependências do NPM
 
 
 
